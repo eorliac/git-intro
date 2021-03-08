@@ -1,3 +1,5 @@
 File main_A.txt in branch main
 
-This is contribution from another user
+This is a contribution from another user
+
+And yet another one
